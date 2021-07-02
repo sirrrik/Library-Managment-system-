@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 02 18:38:28 EAT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0179-2dbb-1aad-000002fa8b58 
+on database directory F:\New folder\work\LOYO MOSES libraury project\Libraury_App\dist\Libraury_db with class loader sun.misc.Launcher$AppClassLoader@70dea4e 
+Loaded from file:/F:/New%20folder/work/LOYO%20MOSES%20libraury%20project/Libraury_App/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=F:\New folder\work\LOYO MOSES libraury project\Libraury_App\dist
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
